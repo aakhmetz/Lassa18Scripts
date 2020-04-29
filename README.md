@@ -7,9 +7,9 @@ Supplementary materials for Akhmetzhanov AR, Asai Y, Nishiura H: Quantifying the
 ## Jupyter notebooks
 
 ### Preprocessing of the data
-* Very preliminary check of the grabbed data for 2012–mid of 2014. To note that the data sources were quite scarce and sometime contradictive for that period. [A1. Data aggregation - PlotDigitizer of the data from 2012 to the mid of 2014.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A1.%20Data%20aggregation%20-%20PlotDigitizer%20of%20the%20data%20from%202012%20to%20the%20mid%20of%202014.ipynb) (written in *R*)
-* [A2. Data aggregation - Final steps.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A2.%20Data%20aggregation%20-%20Final%20steps.ipynb)
-* Creating the maps of Nigeria showed in Supplementary Materials [A3. Nigeria map.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A3.%20Nigeria%20map.ipynb) (written in *R*)
+* [A1. Data aggregation - PlotDigitizer of the data from 2012 to the mid of 2014.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A1.%20Data%20aggregation%20-%20PlotDigitizer%20of%20the%20data%20from%202012%20to%20the%20mid%20of%202014.ipynb) (written in *R*)</br>Very preliminary check of the grabbed data for 2012–mid of 2014. To note that the data sources were quite scarce and sometime contradictive for that period. 
+* [A2. Data aggregation - Final steps.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A2.%20Data%20aggregation%20-%20Final%20steps.ipynb) (written in *R*)
+* [A3. Nigeria map.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A3.%20Nigeria%20map.ipynb) (written in *R*)</br>Here, we created the maps of Nigeria with incidence of LF for 2012–2018 which were showed in Supplementary Materials 
 
 ### Main analysis
 * [B. Main analysis.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/B.%20Main%20analysis.ipynb) (written in *R* using the R package [*nimble*](https://r-nimble.org/) for Bayesian inference)</br>
