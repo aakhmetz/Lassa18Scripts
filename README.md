@@ -14,11 +14,11 @@ Supplementary materials for Akhmetzhanov AR, Asai Y, Nishiura H: Quantifying the
 * [A3. Nigeria map.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/A3.%20Nigeria%20map.ipynb) (written in *R*)</br>Here, we created the maps of Nigeria with incidence of LF for 2012–2018 which were showed in Supplementary Materials 
 
 ### Main analysis
-* [B. Main analysis.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/B.%20Main%20analysis.ipynb) (written in *R* using the R package [*nimble*](https://r-nimble.org/) for Bayesian inference)</br>
+* [B. Main analysis.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/B.%20Main%20analysis.ipynb) (written in *R* using the package [*nimble*](https://r-nimble.org/) for Bayesian inference)</br>
 Obtaining main results reported in the paper. For example, we used the data from the nosocomial outbreak in [Jos in 1970](http://dx.doi.org/10.1016/0035-9203(72)90271-4), to estimate the **incubation period** distribution of LF as the gamma distribution with a mean of 12.8 days (95% credible interval (CI): 10.7, 15.0) and a standard deviation of 4.6 days (95% CI: 2.8, 6.6)
 * [C. Transmission dynamics in rodents.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/C.%20Transmission%20dynamics%20in%20rodents.ipynb) (written in *Python*)</br>Modeling transmission of LF within rodent populations by solving the SIR model with seasonality and density-dependent contact rate
 * [D. Precipitation.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/D.%20Precipitation.ipynb) (written in *R*)</br>Showing the precipitation data for Nigeria
-* [E. CCM.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/E.%20CCM.ipynb) (written in *R* using the R package [rEDM](https://ha0ye.github.io/rEDM/articles/rEDM.html))</br>Performing coss-map causality analysis for shared seasonality according to the method developed by George Sugihara and colleagues
+* [E. CCM.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/Lassa2018Scripts/blob/master/scripts/E.%20CCM.ipynb) (written in *R* using the package [rEDM](https://ha0ye.github.io/rEDM/articles/rEDM.html))</br>Performing coss-map causality analysis for shared seasonality according to the method developed by George Sugihara and colleagues
 
 ---------
 **Thank you for your interest to our work!** 
